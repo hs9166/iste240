@@ -69,5 +69,13 @@ Since the overall content of the Top 3 Horror Films website is based on factual 
   -Characteristics (interesting)
   -History (least interesting)
 
-Layout
+Mood of the Website 
+
+This website presents visual and factual information about the Top 3 Horror Films. The content as well as the subject matter can be described as precise and perceptible. As the title, most people think of horror films as scary and gruesome, this website will present that aesthetic.
+
+Color combinations should be loud and grim.
+
+Typography 
+
+Since the content delves into some gorry details about these horror films, you can let that inform the font choices. Google Images: "Reel Scary" to see the look and style of the Reel Scary website. The use of antique and "older-looking" fonts will allow the expected feel of the website to be accomplished.
 
