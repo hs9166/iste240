@@ -53,3 +53,21 @@ Since the overall content of the Top 3 Horror Films website is based on factual 
   i. film fame and representative photo
   ii. Characteristics 
   iii. History
+  
+  Layout
+  
+  The title, website menu, and footer are inconsequential and will be out of the way.
+  - Title: Strong fallow area.
+  - Cover: Primary optical area.
+  -Website menu: Horizontal-primary area, strecthing to strong fallow area.
+  -Footer: Terminal area.
+  
+  Except for the homepage, each subpage has 4 sections
+  
+  -The horror film's name (intrigue)
+  -The cover (image- most interesting/eyecatching)
+  -Characteristics (interesting)
+  -History (least interesting)
+
+Layout
+
